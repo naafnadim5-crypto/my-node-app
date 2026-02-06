@@ -1,3 +1,11 @@
+  GNU nano 8.2                                index.js *                                        
+});
+
+app.listen(3000, () => {
+  console.log('Server is running on port 3000');
+});
+
+
 app.listen(3000, () => {
   console.log('Server is running on port 3000');
 });const express = require('express');
@@ -10,3 +18,5 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Server is running on port 3000');
 });
+
+
